@@ -1,4 +1,4 @@
-# \# 🌬️ Wind Energy Dashboard
+# 🌬️ Wind Energy Dashboard
 
 # 
 
@@ -8,7 +8,7 @@
 
 
 
-\## ⚙️ Tecnologias
+⚙️ Tecnologias
 
 
 
@@ -19,22 +19,6 @@
 \- Tableau Public  
 
 \- Google Slides
-
-
-
-\## 🚀 Como Executar
-
-
-
-1\. Clone o repositório:
-
-```bash
-
-git clone https://github.com/seu-usuario/wind-energy-dashboard.git
-
-cd wind-energy-dashboard
-
-
 
 
 
